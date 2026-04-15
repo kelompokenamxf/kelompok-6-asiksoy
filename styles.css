@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(54, 2, 105);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(189, 161, 3);
+}
+h2 {text-align: center;
+    color: rgb(189, 161, 3);
+    font-size: 12px;}
+
+marquee {color: rgb(189, 161, 3);
+        font-size: 12px; }
+
+p {color: rgb(189, 161, 3);
+}
+
+ul {list-style-type: none;
+    text-align: center;
+    color: rgb(189, 161, 3);
+    border: 2px solid rgb(189, 161, 3);
+
+}
+
+li {display: inline;
+    padding: 8px;}
