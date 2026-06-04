@@ -6,8 +6,11 @@ h1 {
     text-align: center;
     color: rgb(255, 255, 255);
 }
-marquee {color: rgb(255. 255, 255);
-        font-size: 12px; }
+
+marquee {
+        color: rgb(255. 255, 255);
+        font-size: 12px; 
+}
 
 ul {list-style-type: none;
     text-align: center;
